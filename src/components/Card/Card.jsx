@@ -1,5 +1,5 @@
 import style from "./card.module.scss";
-import createUniqueID from "../../../createUniqueID";
+import createUniqueID from "../../createUniqueID";
 
 export default function Card(props) {
   return (

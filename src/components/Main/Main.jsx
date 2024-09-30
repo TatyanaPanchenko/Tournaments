@@ -1,6 +1,6 @@
-import Card from "../data/Card/Card";
-import data from "../data/data.json";
-import { getNewObj } from "../getNewObj";
+import Card from "../Card/Card";
+import data from "../../data/data.json";
+import { getNewObj } from "../../getNewObj";
 import style from "./main.module.scss";
 
 export default function Main() {
